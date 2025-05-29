@@ -1,6 +1,6 @@
-# Supernoderz Node Instructions
+# Supernoderz Node Guides
 
-Welcome to the **Supernoderz Node Instructions** repository! This is your comprehensive guide for deploying and running various blockchain and AI nodes on the [Supernoderz](https://supernoderz.com) platform.
+Welcome to the **Supernoderz Node Guides** repository! This is your comprehensive guide for deploying and running various blockchain and AI nodes on the [Supernoderz](https://supernoderz.com) platform.
 
 > 💙 **Love what we're doing at Supernoderz?** Follow us on [X (Twitter)](https://x.com/supernoderz) to stay updated with the latest announcements, new node releases, and platform updates!
 
@@ -15,7 +15,7 @@ Supernoderz is a decentralized GPU infrastructure platform that allows users to 
 
 ## 📚 Available Node Guides
 
-This repository contains step-by-step instructions for deploying various nodes on Supernoderz. Each guide is designed to be beginner-friendly while providing comprehensive coverage for advanced users.
+This repository contains step-by-step guides for deploying various nodes on Supernoderz. Each guide is designed to be beginner-friendly while providing comprehensive coverage for advanced users.
 
 ### Currently Available Guides:
 
@@ -39,7 +39,7 @@ Before deploying any node, ensure you have:
 ### General Deployment Process
 
 1. **Choose Your Node**: Browse available node guides in this repository
-2. **Follow the Guide**: Each guide provides detailed step-by-step instructions
+2. **Follow the Guide**: Each guide provides detailed step-by-step guide
 3. **Deploy on Supernoderz**: Use the platform's marketplace to deploy your configured node
 4. **Monitor Performance**: Track your node's performance through provided dashboards
 
@@ -62,15 +62,15 @@ We welcome contributions to improve and expand our node instruction guides! Here
 
 ### Improving Existing Guides
 
-- Fix typos or unclear instructions
+- Fix typos or unclear guides
 - Add missing steps or clarifications
 - Update outdated information
 - Improve formatting and readability
 
 ### Guidelines for Contributors
 
-- **Be Clear and Concise**: Write instructions that beginners can follow
-- **Test Your Instructions**: Ensure all steps work as described
+- **Be Clear and Concise**: Write guides that beginners can follow
+- **Test Your Guides**: Ensure all steps work as described
 - **Include Screenshots**: Visual aids help users follow complex steps
 - **Provide Context**: Explain why certain steps are necessary
 - **Update Regularly**: Keep guides current with platform changes

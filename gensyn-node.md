@@ -1,6 +1,6 @@
 # Running Gensyn Node on Supernoderz: Complete Setup Guide
 
-This guide provides step-by-step instructions for deploying and running a Gensyn node on the Supernoderz platform. Follow these instructions carefully to ensure a successful deployment.
+This guide provides step-by-step guide for deploying and running a Gensyn node on the Supernoderz platform. Follow these instructions carefully to ensure a successful deployment.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -42,7 +42,7 @@ If Docker is not already installed on your system:
    - **Windows**: Docker Desktop for Windows
    - **macOS**: Docker Desktop for Mac
    - **Linux**: Docker Desktop for Linux
-3. Follow the installation instructions provided in the official documentation
+3. Follow the installation guide provided in the official documentation
 4. Start Docker Desktop and ensure it's running properly
 
 ### Step 4: Verify Docker Installation
