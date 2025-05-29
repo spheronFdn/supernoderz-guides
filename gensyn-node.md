@@ -82,8 +82,9 @@ You should see the Docker version information displayed.
 2. Copy both values and store them securely
 3. You can now close the browser tab and stop the Docker container (Ctrl+C in terminal)
 
-## Optional: Weights & Biases Integration
+## Weights & Biases Integration
 
+Please note that you need to pass the wandb api key even if you don't want to sync to wandb. Otherwise, the node will not start.
 If you want to track training statistics and logs, follow these steps:
 
 ### Step 9: Setup Weights & Biases Account
