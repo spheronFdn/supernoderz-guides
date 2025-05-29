@@ -84,8 +84,7 @@ You should see the Docker version information displayed.
 
 ## Weights & Biases Integration
 
-Please note that you need to pass the wandb api key even if you don't want to sync to wandb. Otherwise, the node will not start.
-If you want to track training statistics and logs, follow these steps:
+Please note that you need to pass the wandb api key even if you don't want to sync to wandb. Otherwise, the node will not start. follow these steps:
 
 ### Step 9: Setup Weights & Biases Account
 1. Navigate to [wandb.ai](https://wandb.ai)
