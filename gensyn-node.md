@@ -5,10 +5,10 @@ This guide provides step-by-step guide for deploying and running a Gensyn node o
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Account Setup and Funding](#account-setup-and-funding)
-3. [Local Environment Setup](#local-environment-setup)
-4. [Obtaining Required Credentials](#obtaining-required-credentials)
-5. [Optional: Weights & Biases Integration](#optional-weights--biases-integration)
-6. [Node Deployment](#node-deployment)
+3. [Gensyn Node User data and API key generation](#gensyn-node-user-data--api-key-generation)
+4. [Obtaining Required Credentials for Gensyn Node](#obtaining-required-credentials-for-gensyn-node)
+5. [Obtain Weights & Biases API Keys](#obtain-weights--biases-api-keys)
+6. [Gensyn Node Deployment](#gensyn-node-deployment)
 7. [Monitoring and Dashboard Access](#monitoring-and-dashboard-access)
 8. [Important Notes](#important-notes)
 
@@ -82,7 +82,7 @@ You should see the Docker version information displayed.
 2. Copy both values and store them securely
 3. You can now close the browser tab and stop the Docker container (Ctrl+C in terminal)
 
-## Weights & Biases Integration
+## Obtain Weights & Biases API Keys
 
 Please note that you need to pass the wandb api key even if you don't want to sync to wandb. Otherwise, the node will not start. follow these steps:
 
