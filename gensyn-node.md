@@ -5,7 +5,7 @@ This guide provides step-by-step guide for deploying and running a Gensyn node o
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Account Setup and Funding](#account-setup-and-funding)
-3. [Gensyn Node User data and API key generation](#gensyn-node-user-data--api-key-generation)
+3. [Gensyn Node User data and API key generation](#gensyn-node-user-data-and-api-key-generation)
 4. [Obtaining Required Credentials for Gensyn Node](#obtaining-required-credentials-for-gensyn-node)
 5. [Obtain Weights & Biases API Keys](#obtain-weights--biases-api-keys)
 6. [Gensyn Node Deployment](#gensyn-node-deployment)
