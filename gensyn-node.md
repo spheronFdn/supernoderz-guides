@@ -105,15 +105,10 @@ Please note that you need to pass the wandb api key even if you don't want to sy
 3. Either select Secure or Community Gensyn Node.
 4. Fill in the required fields:
    - **Swarm Pem File**: Upload the Swarm Pem File if you have downloaded before
-   - **Model Config File**: Upload the Model Config File if you want to use custom model configuration
    - **User Data**: Paste the User Data obtained from Step 8
    - **API Key**: Paste the API Key obtained from Step 8
    - **Wandb API Key** (Optional): Paste the Wandb API key from Step 10
    - **Wandb Mode**: Set to "online" if you want to sync logs and training stats to your Wandb dashboard
-   - **Use Big Swarm**: Set Use Big Swarm to "true" based on your gpu configuration
-   - **Param B**: Set Param B to 0.5 or 1.5 if you are deploying on rtx4090 or below GPU configuration.
-
-**Note:** For Use Big Swarm and Param B, please refer to the [Gensyn Node Documentation](https://github.com/gensyn-ai/rl-swarm?tab=readme-ov-file#requirements) for more information.
 
 ### Step 12: Select Duration and Deploy
 1. Choose your desired node runtime duration from the available options
@@ -126,7 +121,7 @@ Please note that you need to pass the wandb api key even if you don't want to sy
 ## Monitoring and Dashboard Access
 
 ### Step 13: Access Gensyn Dashboard
-1. Navigate to the [Gensyn Dashboard](https://dashboard-math.gensyn.ai/)
+1. Navigate to the [Gensyn Dashboard](https://dashboard.gensyn.ai/)
 2. Log in using the same email address you used during the authentication process in Step 7
 3. Once logged in, you will see:
    - All your running nodes
